@@ -1,10 +1,10 @@
 ## Hi there 👋
 Hi I am Piyush Goel, working my on Android Developemt 
 ### Skills 
-> Android 
-> Firebase
-> IoT
-> JS
+> Android,
+> Firebase,
+> IoT,
+> JS,
 > HTML/ CSS
 
 <!--
