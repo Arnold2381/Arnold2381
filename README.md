@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+Hi I am Piyush Goel, working my on Android Developemt 
+### Skills 
+> Android 
+> Firebase
+> IoT
+> JS
+> HTML/ CSS
 
 <!--
 **Arnold2381/Arnold2381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
