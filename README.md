@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi I am Piyush Goel, working my on Android Developemt 
+Hi I am Piyush Goel, working on Android Developemt 
 ### Skills 
 > Android,
 > Firebase,
