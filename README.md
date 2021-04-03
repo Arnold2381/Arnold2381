@@ -16,6 +16,7 @@
 
 <br /><br />
 
-![Linkedin Badge](https://img.shields.io/badge/-PiyushGoel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-goel-344304169//)
-![Gmail Badge](https://img.shields.io/badge/-piyushgoel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:piyushgoel2008@gmail.com)
-![Twitter Badge](https://img.shields.io/badge/-@PiyushGoel-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PiyushG51274308)
+<a href="https://twitter.com/PiyushG51274308"><img src="https://img.shields.io/twitter/url?label=PiyushGoel&style=social&url=https%3A%2F%2Ftwitter.com%2FPiyushG51274308" alt="twitter"/></a>
+<a href="https://www.linkedin.com/in/piyush-goel-344304169/"><img src="https://img.shields.io/badge/-PiyushGoel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piyush-goel-344304169//" alt="LinkedIn"/></a>
+<a href="mailto:piyushgoel2008@gmail.com"><img src="https://img.shields.io/badge/-piyushgoel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:piyushgoel2008@gmail.com" alt="Gmail"/></a>
+
