@@ -1,5 +1,5 @@
 ### Hi there 👋
-###### I am Piyush Goel, a 3rd-year undergrad from SRM Institute of Science and Technology, Chennai, India. I'm a tech enthusiast you will either find me participating in a hackathon, doing opensource, or watching food videos.
+###### I am Piyush Goel, a 4th-year undergrad from SRM Institute of Science and Technology, Chennai, India. I'm a tech enthusiast you will either find me participating in a hackathon, doing opensource, or watching food videos.
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=Arnold2381&count_private=true&show_icons=true&theme=dark)
 ### Languages and Tools:
 
